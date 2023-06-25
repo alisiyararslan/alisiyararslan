@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Şiyar Arslan</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a senior computer engineering student at Dokuz Eylul University passionate about creating innovative solutions and exploring the world of technology.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a senior computer engineering student passionate about creating innovative solutions and exploring the world of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliSiyar&label=Profile%20views&color=0e75b6&style=flat" alt="aliSiyar" /> </p>
 
