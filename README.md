@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Şiyar Arslan</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a senior computer engineering student passionate about creating innovative solutions and exploring the world of technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alisiyararslan&label=Profile%20views&color=0e75b6&style=flat" alt="aliSiyar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alisiyararslan&label=Profile%20views&color=0e75b6&style=flat" alt="alisiyararslan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisiyararslan" alt="aliSiyar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisiyararslan" alt="alisiyararslan" /></a> </p>
 
 - 📫 How to reach me **siyararslan891@gmail.com**
 
